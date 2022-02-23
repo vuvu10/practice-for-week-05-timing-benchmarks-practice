@@ -1,4 +1,4 @@
-const [addNums, addManyNums] = require("./timing-benchmarks-pt1.js");
+const [addNums, addManyNums] = require("./phase-1");
 
 // Runs `addNums` in 10 increasing increments
 function addNums10(increment) {
